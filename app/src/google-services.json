@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923358552996",
+    "firebase_url": "https://pesanmakan1-da155-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pesanmakan1-da155",
+    "storage_bucket": "pesanmakan1-da155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923358552996:android:ccffd151368226f0f4d731",
+        "android_client_info": {
+          "package_name": "com.example.pesanmakan1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923358552996-fdk35l9upu2vu04dt6l11i2la0f64oc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4A12CNAJcQwv9vPxPGjDLBs6OkojEpyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923358552996-fdk35l9upu2vu04dt6l11i2la0f64oc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
